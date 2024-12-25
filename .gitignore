@@ -1,0 +1,15 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
